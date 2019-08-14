@@ -1,2 +1,2 @@
-# ALC-4.0-challenge2
+# DevCtrainingWithAndela
 Building a smartpay web application
